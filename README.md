@@ -1,4 +1,10 @@
 ### Hi there 👋
+🌱 I’m currently learning Data Science using Python 
+
+📫 How to reach me: celiacnavarro@gmail.com
+
+😄 Pronouns: she/her
+
 
 <!--
 **celiacnavarro/celiacnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
