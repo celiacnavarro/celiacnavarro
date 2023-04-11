@@ -1,10 +1,63 @@
-### Hi there 👋
-🌱 I’m currently learning Data Science using Python 
+<div id="header" align="center">
+  <img src="https://github.com/celiacnavarro/celiacnavarro/blob/main/celiacnavarro.png" width="800"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/celiacnavarro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/RamonFCerezo?tab=repositories">
+    <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/RamonFCerezo?tab=repositories" alt="Ramón Fernández"/></a>
+</div>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=celiacnavarro&style=flat-square&color=blue" alt=""/>
+</div>
+  <h2>Welcome to my profile!</h2>
+</div>
 
-📫 How to reach me: celiacnavarro@gmail.com
+<h2> About Me </h2>
+<p> I am deeply passionate about data and machine learning. There is nothing more thrilling than sifting through data to uncover patterns and connections that can be used to create intelligent and innovative solutions.</p>
+<p> My education in Psychology, coupled with a specialization in Cognitive Neuroscience, sparked my curiosity about neural networks and artificial intelligence. Ever since, I have been on a journey of continuous learning and exploration in this captivating field.</p>
+<p> Driven by my fascination with data, I enrolled in a Data Science bootcamp, where I discovered my passion for programming and the limitless potential of Machine Learning tools. </p> 
 
-😄 Pronouns: she/her
+<h2>Projects</h2>
+<div>
+  <ul>
+    <li><a href="https://github.com/celiacnavarro/Mental_Health_EDA">EDA - Differences in Mental Health </a></li>
+    <li><a href="https://github.com/celiacnavarro/NLP_Twitter_Analysis">Twitter sentiment analysis using Python and NLP techniques for a company</a></li>
+    <li><a href="https://github.com/celiacnavarro/Post_Creator_App">Python APP (run with Flask) connected to ChatGPT to obtain answers in a new interface. Storage of questions and answers in an AWS database</a></li>
+    <li><a href="https://github.com/celiacnavarro/ML_Project">Machine Learning - Prediction models for prevalence of mentall illnesses and anxyolitic consumption</a></li>
+    <li><a href="https://github.com/celiacnavarro/MachineLearningToolKit">Python library for Data Scientists with 40+ useful functions</a></li>
+  </ul>
+</div>
 
+
+<h2>Contact me</h2>
+<div>
+  <p>If you have any questions about my work or ideas for collaboration, please don't hesitate to reach out. I'm always open to new opportunities and happy to chat!</p> 
+<a href="mailto:celiacnavarro@gmail.com"><img src="https://img.shields.io/badge/Email-celiacnavarro%40gmail.com-blue?style=for-the-badge"></a>
+</div>
+
+<h2>:hammer_and_wrench: Languages and Tools</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width="50" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="MongoDB" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain-wordmark.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" **alt="TensorFlow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" **alt="Pytest" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" **alt="Flask" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="50" height="50"/>
+
+</div>
 
 <!--
 **celiacnavarro/celiacnavarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
