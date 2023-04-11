@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/celiacnavarro/celiacnavarro/blob/main/celiacnavarro.png" width="800"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/celiacnavarro/">
+  <a href="https://www.linkedin.com/in/celiacabellonavarro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/RamonFCerezo?tab=repositories">
