@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/celiacabellonavarro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/RamonFCerezo?tab=repositories">
+  <a href="https://github.com/celiacnavarro?tab=repositories">
     <img src="https://img.shields.io/badge/-Repositories-828091?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/celiacnavarro?tab=repositories" alt="Celia Cabello Navarro"/></a>
 </div>
 <div id="badges">
