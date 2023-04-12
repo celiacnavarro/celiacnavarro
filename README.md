@@ -15,16 +15,16 @@
 
 <h2> About Me </h2>
 <p> I am deeply passionate about data and machine learning. There is nothing more thrilling than sifting through data to uncover patterns and connections that can be used to create intelligent and innovative solutions.</p>
-<p> My education in Psychology, coupled with a specialization in Cognitive Neuroscience, sparked my curiosity about neural networks and artificial intelligence. Ever since, I have been on a journey of continuous learning and exploration in this captivating field.</p>
+<p> My education in Psychology, along with a specialization in Cognitive Neuroscience, sparked my curiosity about neural networks and artificial intelligence. Since then, I have embarked on a journey of continuous learning and exploration in this captivating field.</p>
 <p> Driven by my fascination with data, I enrolled in a Data Science bootcamp, where I discovered my passion for programming and the limitless potential of Machine Learning tools. </p> 
 
 <h2>Projects</h2>
 <div>
   <ul>
-    <li><a href="https://github.com/celiacnavarro/Mental_Health_EDA">EDA - Differences in Mental Health </a></li>
+    <li><a href="https://github.com/celiacnavarro/Mental_Health_EDA">Exploratory Data Analysis (EDA) study focusing on identifying differences in mental health across countries, gender, and socioeconomic status</a></li>
+       <li><a href="https://github.com/celiacnavarro/ML_Project">Machine Learning - Prediction models for estimating the prevalence of mental illnesses in a country using socioeconomic variables and forecasting the future consumption of anxiolytics in Spain by analyzing time series data</a></li>
     <li><a href="https://github.com/celiacnavarro/NLP_Twitter_Analysis">Twitter sentiment analysis using Python and NLP techniques for a company</a></li>
-    <li><a href="https://github.com/celiacnavarro/Post_Creator_App">Python APP (run with Flask) connected to ChatGPT to obtain answers in a new interface. Storage of questions and answers in an AWS database</a></li>
-    <li><a href="https://github.com/celiacnavarro/ML_Project">Machine Learning - Prediction models for prevalence of mental illnesses and anxyolitic consumption</a></li>
+    <li><a href="https://github.com/celiacnavarro/Post_Creator_App">A Python web application powered by Flask, integrated with ChatGPT for generating responses in a new user interface. The questions and answers are stored in an AWS database</a></li>
     <li><a href="https://github.com/celiacnavarro/MachineLearningToolKit">Python library for Data Scientists with 40+ useful functions</a></li>
        <li><a href="https://informemensualgtt.nicepage.io/">Monthly report with visualizations on employee and project data for an organization</a></li>
 
