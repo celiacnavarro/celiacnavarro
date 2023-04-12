@@ -24,8 +24,10 @@
     <li><a href="https://github.com/celiacnavarro/Mental_Health_EDA">EDA - Differences in Mental Health </a></li>
     <li><a href="https://github.com/celiacnavarro/NLP_Twitter_Analysis">Twitter sentiment analysis using Python and NLP techniques for a company</a></li>
     <li><a href="https://github.com/celiacnavarro/Post_Creator_App">Python APP (run with Flask) connected to ChatGPT to obtain answers in a new interface. Storage of questions and answers in an AWS database</a></li>
-    <li><a href="https://github.com/celiacnavarro/ML_Project">Machine Learning - Prediction models for prevalence of mentall illnesses and anxyolitic consumption</a></li>
+    <li><a href="https://github.com/celiacnavarro/ML_Project">Machine Learning - Prediction models for prevalence of mental illnesses and anxyolitic consumption</a></li>
     <li><a href="https://github.com/celiacnavarro/MachineLearningToolKit">Python library for Data Scientists with 40+ useful functions</a></li>
+       <li><a href="https://informemensualgtt.nicepage.io/">Monthly report with visualizations on employee and project data for an organization</a></li>
+
   </ul>
 </div>
 
