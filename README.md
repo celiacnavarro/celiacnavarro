@@ -22,6 +22,8 @@
 <div>
   <ul>
     <li><a href="https://github.com/celiacnavarro/Instagram_Insights">Instagram Insights: Analysing User Behaviour on Instagram using Python and SQL</a></li>
+    <li><a href="https://github.com/celiacnavarro/Airbnb_Analysis_PowerBI">Analysis of Airbnb data using Power BI
+</a></li>
     <li><a href="https://github.com/celiacnavarro/Superstore_Sales_EDA"> Superstore Exploratory Data Analysis (EDA): Gaining insights into one superstore's sales and customer behavior </a></li>
     <li><a href="https://github.com/celiacnavarro/Mental_Health_EDA">Exploratory Data Analysis (EDA) study focusing on identifying differences in mental health across countries, gender, and socioeconomic status</a></li>
        <li><a href="https://github.com/celiacnavarro/ML_Project">Machine Learning - Prediction models for estimating the prevalence of mental illnesses in a country using socioeconomic variables and forecasting the future consumption of anxiolytics in Spain by analyzing time series data</a></li>
